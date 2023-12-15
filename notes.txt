@@ -1,0 +1,5 @@
+- Clerk.com used for authentication
+- https://clerk.com/docs/quickstarts/nextjs
+
+- shadcn/ui used to import premade components to utilize in project
+- https://ui.shadcn.com/docs/installation
