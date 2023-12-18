@@ -21,3 +21,28 @@ https://ui.shadcn.com/docs/dark-mode/next
 - Add toggle by npx shadcn-ui@latest add dropdown-menu and copy code from step 3 in dark mode and go to app -> mode-toggle.tsx and paste the code
 - in app -> page.tsx put <ModeToggle />
 - in app -> layout.tsx put  <body className={cn(font.className, "bg-white dark:bg-[#313338]")}>
+
+
+
+// Prisma
+
+- npm i -D prisma
+- npx prisma init
+- this adds "prisma" folder and in it is "schema.prisma"
+
+// after creating models in schema.prisma
+- npx prisma generate
+- npx prisma db push
+- npm i @prisma/client
+- under "lib" create db.ts and import { PrismaClient } from "@prisma/client";
+- npx prisma studio
+
+
+// PlanetScale
+main-2023-12-18-jbbk5j
+
+7zbq7aherazzh0zroqml
+pscale_pw_BiFqDAJWobjbhaadzT2P4hpLWtDHz8E9pLcPZgiKoiL
+
+DATABASE_URL='mysql://7zbq7aherazzh0zroqml:pscale_pw_BiFqDAJWobjbhaadzT2P4hpLWtDHz8E9pLcPZgiKoiL@aws.connect.psdb.cloud/discord-clone?sslaccept=strict'
+put in env ^ 
