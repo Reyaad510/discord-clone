@@ -44,5 +44,6 @@ main-2023-12-18-jbbk5j
 7zbq7aherazzh0zroqml
 pscale_pw_BiFqDAJWobjbhaadzT2P4hpLWtDHz8E9pLcPZgiKoiL
 
-DATABASE_URL='mysql://7zbq7aherazzh0zroqml:pscale_pw_BiFqDAJWobjbhaadzT2P4hpLWtDHz8E9pLcPZgiKoiL@aws.connect.psdb.cloud/discord-clone?sslaccept=strict'
+DATABASE_URL='mysql://0zscx0zbfum5s4v8fq7n:pscale_pw_OigZkMkYlSCJWvdHZXA1wPA4TlpPN14LSZfZvgoqkw3@aws.connect.psdb.cloud/discord-clone?sslaccept=strict'
+
 put in env ^ 
